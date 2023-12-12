@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Activity 15 PHP Basics</title>
+    <title>Activity 15 - PHP Basics</title>
     <link rel="stylesheet" href="index.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" 
           rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" 
@@ -11,7 +11,7 @@
 </head>
 <body>
     <div class="text-center m-5 p-5 border shadow">
-        <h1 class="fw-bold">Activity 15 PHP Basics</h1>
+        <h1 class="fw-bold">Activity 15 - PHP Basics</h1>
     </div>
     
     <div class="text-center min-vw-100 mt-4">
@@ -41,7 +41,7 @@
 
         print "<h2>Loops</h2>";
 
-        print "This for loop will count from 1 to 5 = ";
+        print "This For loop will count from 1 to 5 = ";
 
         for ($forLoopCount = 1; $forLoopCount <= 5; $forLoopCount++)
         {
